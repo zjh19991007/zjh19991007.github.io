@@ -1,8 +1,8 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Jiaheng Zhao](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/zjh19991007)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Master's Degree in Math, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
 #### Email
 sli[at]cumt.edu.cn
