@@ -5,7 +5,7 @@
 Master's Degree in Math, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
 #### Email
-sli[at]cumt.edu.cn
+zhaojiaheng171@mails.ucas.ac.cn
 
 #### Education
 M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
