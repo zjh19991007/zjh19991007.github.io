@@ -1,0 +1,1 @@
+ [1] Higher condensation theory, with Liang Kong Zhi-Hao Zhang and Hao Zheng. https://arxiv.org/abs/2403.07813
